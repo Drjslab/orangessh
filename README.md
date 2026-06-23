@@ -64,19 +64,6 @@ Add application screenshots here.
 - Kubernetes Assistant
 - AWS Assistant
 
-## 📦 Installation
-
-Download from Google Play Store or build from source.
-
-```bash
-git clone https://github.com/Drjslab/orangessh.git
-cd orangessh
-```
-
 ## 🤝 Feedback & Contributions
 
 Open a Discussion or create an Issue on GitHub.
-
-## 📄 License
-
-MIT License
